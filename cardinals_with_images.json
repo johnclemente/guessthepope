@@ -1,0 +1,812 @@
+[
+  {
+    "name": "Jose Lazaro Fuerte  Advincula Jr.",
+    "title": "Archbishop of Manila",
+    "country": "Philippines",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Portrait_of_Cardinal_Advincula.jpg/250px-Portrait_of_Cardinal_Advincula.jpg"
+  },
+  {
+    "name": "Carlos  Aguiar Retes",
+    "title": "Archbishop of México , Federal District",
+    "country": "Mexico",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cardenalaguiar.jpg/250px-Cardenalaguiar.jpg"
+  },
+  {
+    "name": "Américo Manuel  Alves Aguiar",
+    "title": "Bishop of Setúbal",
+    "country": "Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mons._Americo_Aguiar_visita_a_los_j%C3%B3venes_de_Tierra_Santa%2C_2023.png/250px-Mons._Americo_Aguiar_visita_a_los_j%C3%B3venes_de_Tierra_Santa%2C_2023.png"
+  },
+  {
+    "name": "Fridolin  Ambongo Besungu , O.F.M. Cap.",
+    "title": "Archbishop of Kinshasa",
+    "country": "Congo (Dem. Rep.)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/AED_11%C3%A8me_Nuit_des_T%C3%A9moins_-_Fridolin_Ambongo_-_2_%28cropped%29.jpg/250px-AED_11%C3%A8me_Nuit_des_T%C3%A9moins_-_Fridolin_Ambongo_-_2_%28cropped%29.jpg"
+  },
+  {
+    "name": "Anders  Arborelius , O.C.D.",
+    "title": "Bishop of Stockholm",
+    "country": "Sweden",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Anders_Arborelius_in_2019.jpg/250px-Anders_Arborelius_in_2019.jpg"
+  },
+  {
+    "name": "Jean-Marc Noël  Aveline",
+    "title": "Archbishop of Marseille",
+    "country": "France",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mgr_Jean-Marc_Aveline_par_Claude_Truong-Ngoc_juillet_2021.jpg/250px-Mgr_Jean-Marc_Aveline_par_Claude_Truong-Ngoc_juillet_2021.jpg"
+  },
+  {
+    "name": "João Bráz de Aviz",
+    "title": "Prefect Emeritus of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Joao_braz_de_aviz.jpg/250px-Joao_braz_de_aviz.jpg"
+  },
+  {
+    "name": "Fabio  Baggio , C.S.",
+    "title": "Under Secretary of the Dicastery for Promoting Integral Human Development",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fabio_Baggio-5-2-2019.jpg/250px-Fabio_Baggio-5-2-2019.jpg"
+  },
+  {
+    "name": "Philippe Xavier Christian Ignace Marie  Barbarin",
+    "title": "Archbishop Emeritus of Lyon",
+    "country": "France",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Philippe_Barbarin_%28cropped%29.jpg/250px-Philippe_Barbarin_%28cropped%29.jpg"
+  },
+  {
+    "name": "Domenico Battaglia",
+    "title": "Archbishop of Napoli",
+    "country": "Italy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Don_Mimmo_Battaglia_pentecoste_2018_%28cropped%29.jpg/500px-Don_Mimmo_Battaglia_pentecoste_2018_%28cropped%29.jpg"
+  },
+  {
+    "name": "Ignace  Bessi Dogbo",
+    "title": "Archbishop of Abidjan",
+    "country": "Côte d’Ivoire",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ignace_Bessi_Dogbo.png/250px-Ignace_Bessi_Dogbo.png"
+  },
+  {
+    "name": "Giuseppe  Betori",
+    "title": "Archbishop Emeritus of Firenze {Florence}",
+    "country": "Italy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Betori.JPG/250px-Betori.JPG"
+  },
+  {
+    "name": "Charles Maung  Bo , S.D.B.",
+    "title": "Archbishop of Yangon",
+    "country": "Myanmar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Maung_Bo.jpg/250px-Maung_Bo.jpg"
+  },
+  {
+    "name": "Vicente  Bokalic Iglic , C.M.",
+    "title": "Archbishop of Santiago del Estero",
+    "country": "Argentina",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cardenal_Bokalic.png/250px-Cardenal_Bokalic.png"
+  },
+  {
+    "name": "Josip  Bozanić",
+    "title": "Archbishop Emeritus of Zagreb",
+    "country": "Croatia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CardinalJosipBozani%C4%87.jpg/250px-CardinalJosipBozani%C4%87.jpg"
+  },
+  {
+    "name": "Leopoldo José  Brenes Solórzano",
+    "title": "Archbishop of Managua",
+    "country": "Nicaragua",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Leopoldo_Jos%C3%A9_Cardinal_Brenes_Sol%C3%B3rzano_%28cropped%29.JPG/250px-Leopoldo_Jos%C3%A9_Cardinal_Brenes_Sol%C3%B3rzano_%28cropped%29.JPG"
+  },
+  {
+    "name": "Stephen  Brislin",
+    "title": "Archbishop of Johannesburg",
+    "country": "South Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Stephen_Brislin.jpg/250px-Stephen_Brislin.jpg"
+  },
+  {
+    "name": "Raymond Leo  Burke",
+    "title": "Prefect Emeritus of the Apostolic Signatura",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burke-BB-768x1152.jpg/250px-Burke-BB-768x1152.jpg"
+  },
+  {
+    "name": "François-Xavier  Bustillo , O.F.M. Conv.",
+    "title": "Bishop of Ajaccio",
+    "country": "France",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fran%C3%A7ois-Xavier_Bustillo_%28cropped%29.jpg"
+  },
+  {
+    "name": "Mykola  Bychok , C.Ss.R.",
+    "title": "Bishop of Saints Peter and Paul of Melbourne (Ukrainian)",
+    "country": "Australia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lidcombe_Ukrainian_Catholic_Church.jpg/250px-Lidcombe_Ukrainian_Catholic_Church.jpg"
+  },
+  {
+    "name": "Luis Gerardo  Cabrera Herrera , O.F.M.",
+    "title": "Archbishop of Guayaquil",
+    "country": "Ecuador",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/El_Cardenal_Cabrera_en_Azogues.jpg/250px-El_Cardenal_Cabrera_en_Azogues.jpg"
+  },
+  {
+    "name": "Antonio  Cañizares Llovera",
+    "title": "Archbishop Emeritus of Valencia",
+    "country": "Spain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Card._Canizares_%2830279529724%29.jpg/250px-Card._Canizares_%2830279529724%29.jpg"
+  },
+  {
+    "name": "Oscar  Cantoni",
+    "title": "Bishop of Como",
+    "country": "Italy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Card._Cantoni_27-08-22.jpg/250px-Card._Cantoni_27-08-22.jpg"
+  },
+  {
+    "name": "Carlos Gustavo  Castillo Mattasoglio",
+    "title": "Archbishop of Lima",
+    "country": "Peru",
+    "image": "https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_castillo_cg/_jcr_content/parsys/textimage/image.img.jpg/1739981010588.jpg"
+  },
+  {
+    "name": "Fernando Natalio  Chomalí Garib",
+    "title": "Archbishop of Santiago de Chile",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fernando_Chomal%C3%AD.jpg/250px-Fernando_Chomal%C3%AD.jpg"
+  },
+  {
+    "name": "Stephen  Chow Sau-yan , S.J.",
+    "title": "Bishop of Hong Kong [Xianggang]",
+    "country": "China",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/202309_CardinalStephenCHOW_1H_ForMedia.jpg/250px-202309_CardinalStephenCHOW_1H_ForMedia.jpg"
+  },
+  {
+    "name": "Manuel José  Macário do Nascimento Clemente",
+    "title": "Patriarch Emeritus of Lisboa {Lisbon}",
+    "country": "Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manuel_Clemente.png/250px-Manuel_Clemente.png"
+  },
+  {
+    "name": "José  Cobo Cano",
+    "title": "Archbishop of Madrid",
+    "country": "Spain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Toma_posesi%C3%B3n_de_Jos%C3%A9_Cobo_de_Santa_Mar%C3%ADa_de_Montserrat%2C_Roma_04.jpg/250px-Toma_posesi%C3%B3n_de_Jos%C3%A9_Cobo_de_Santa_Mar%C3%ADa_de_Montserrat%2C_Roma_04.jpg"
+  },
+  {
+    "name": "Thomas Christopher  Collins",
+    "title": "Archbishop Emeritus of Toronto , Ontario",
+    "country": "Canada",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Thomas_Christopher_Collins_2014.jpg/250px-Thomas_Christopher_Collins_2014.jpg"
+  },
+  {
+    "name": "Paulo Cezar  Costa",
+    "title": "Archbishop of Brasília , Distrito Federal",
+    "country": "Brazil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cardeal_Costa.jpg/250px-Cardeal_Costa.jpg"
+  },
+  {
+    "name": "Joseph  Coutts",
+    "title": "Archbishop Emeritus of Karachi",
+    "country": "Pakistan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mgr_Coutts_%C3%A0_la_Nuit_des_T%C3%A9moins_2016_%28cropped%29.jpg/250px-Mgr_Coutts_%C3%A0_la_Nuit_des_T%C3%A9moins_2016_%28cropped%29.jpg"
+  },
+  {
+    "name": "Blase Joseph  Cupich",
+    "title": "Archbishop of Chicago , Illinois",
+    "country": "USA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cdl._Cupich_%28cropped%29.png/250px-Cdl._Cupich_%28cropped%29.png"
+  },
+  {
+    "name": "Michael F.  Czerny , S.J.",
+    "title": "Prefect Emeritus of the Dicastery for Promoting Integral Human Development",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Card._Michael_Czerny_S.J._at_the_Vatican.jpg/250px-Card._Michael_Czerny_S.J._at_the_Vatican.jpg"
+  },
+  {
+    "name": "Pablo Virgilio Siongco  David",
+    "title": "Bishop of Kalookan",
+    "country": "Philippines",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cardinal_Pablo_Virgilio_S._David.jpg/250px-Cardinal_Pablo_Virgilio_S._David.jpg"
+  },
+  {
+    "name": "Angelo  De Donatis",
+    "title": "Major Penitentiary of the Apostolic Penitentiary",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/AngeloDeDonatis.jpg/250px-AngeloDeDonatis.jpg"
+  },
+  {
+    "name": "Jozef  De Kesel",
+    "title": "Archbishop Emeritus of Mechelen-Brussel {Malines-Brussels}",
+    "country": "Belgium",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Monseigneur_De_Kesel_%C3%A0_la_basilique_Saint-Martin_de_Li%C3%A8ge.jpg/250px-Monseigneur_De_Kesel_%C3%A0_la_basilique_Saint-Martin_de_Li%C3%A8ge.jpg"
+  },
+  {
+    "name": "John Atcherley  Dew",
+    "title": "Archbishop Emeritus of Wellington",
+    "country": "New Zealand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/John_Atcherley_Dew_in_2014.jpg/250px-John_Atcherley_Dew_in_2014.jpg"
+  },
+  {
+    "name": "Daniel Nicholas  DiNardo",
+    "title": "Archbishop Emeritus of Galveston-Houston , Texas",
+    "country": "USA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Daniel_DiNardo_%28142360355%29.jpg/250px-Daniel_DiNardo_%28142360355%29.jpg"
+  },
+  {
+    "name": "Virgilio  do Carmo da Silva , S.D.B.",
+    "title": "Archbishop of Díli",
+    "country": "Timor-Leste",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2017-03-30_Virg%C3%ADlio_do_Carmo_da_Silva.jpg/250px-2017-03-30_Virg%C3%ADlio_do_Carmo_da_Silva.jpg"
+  },
+  {
+    "name": "Timothy Michael  Dolan",
+    "title": "Archbishop of New York , New York",
+    "country": "USA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cardinal_Dolan_at_UST_%28Sept_2019%2C_Cropped%29.jpg/250px-Cardinal_Dolan_at_UST_%28Sept_2019%2C_Cropped%29.jpg"
+  },
+  {
+    "name": "Willem Jacobus  Eijk",
+    "title": "Archbishop of Utrecht",
+    "country": "Netherlands",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Willem_Eijk_%282020%29.jpg/250px-Willem_Eijk_%282020%29.jpg"
+  },
+  {
+    "name": "Péter  Erdő",
+    "title": "Archbishop of Esztergom-Budapest",
+    "country": "Hungary",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P%C3%A9ter_Erd%C5%91_in_2011.jpg/250px-P%C3%A9ter_Erd%C5%91_in_2011.jpg"
+  },
+  {
+    "name": "Kevin Joseph  Farrell",
+    "title": "Prefect Emeritus of the Dicastery for the Laity, the Family and Life",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kevin_Joseph_Farrell_1.jpg/250px-Kevin_Joseph_Farrell_1.jpg"
+  },
+  {
+    "name": "Victor Manuel  Fernández",
+    "title": "Prefect Emeritus of the Dicastery for the Doctrine of the Faith",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/V%C3%ADctor_Manuel_Fern%C3%A1ndez-%28cropped%29.jpg/250px-V%C3%ADctor_Manuel_Fern%C3%A1ndez-%28cropped%29.jpg"
+  },
+  {
+    "name": "Ángel  Fernández Artime , S.D.B.",
+    "title": "Pro-Prefect Emeritus of the Dicastery for Institutes of Consecrated Life and Societies of Apostolic Life",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%C3%81ngel_Fern%C3%A1ndez_Artime.jpg/250px-%C3%81ngel_Fern%C3%A1ndez_Artime.jpg"
+  },
+  {
+    "name": "Filipe Neri António Sebastião do Rosário  Ferrão",
+    "title": "Archbishop of Goa e Damão",
+    "country": "India",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Filipe_Neri_Ferrao_%28cropped%29.jpg/250px-Filipe_Neri_Ferrao_%28cropped%29.jpg"
+  },
+  {
+    "name": "Fernando  Filoni",
+    "title": "Grand Master of the Equestrian Order of the Holy Sepulchre of Jerusalem",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Card._Fernando_Filoni_in_Taiwan.jpg/250px-Card._Fernando_Filoni_in_Taiwan.jpg"
+  },
+  {
+    "name": "Sebastian  Francis",
+    "title": "Bishop of Penang",
+    "country": "Malaysia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Francis_Sebastian.jpg"
+  },
+  {
+    "name": "Arlindo  Gomes Furtado",
+    "title": "Bishop of Santiago de Cabo Verde",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Arlindo_Gomes_Furtado.jpg/250px-Arlindo_Gomes_Furtado.jpg"
+  },
+  {
+    "name": "Mauro Maria  Gambetti , O.F.M. Conv.",
+    "title": "President of the Fabric of St. Peter",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cardinale_Mauro_Gambetti.png/250px-Cardinale_Mauro_Gambetti.png"
+  },
+  {
+    "name": "Juan de la Caridad  García Rodríguez",
+    "title": "Archbishop of San Cristobal de la Habana",
+    "country": "Cuba",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Juan_de_la_Caridad_Garc%C3%ADa_Rodr%C3%ADguez.jpg/250px-Juan_de_la_Caridad_Garc%C3%ADa_Rodr%C3%ADguez.jpg"
+  },
+  {
+    "name": "William  Goh Seng Chye",
+    "title": "Archbishop of Singapore",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cardinal_William_Goh_%28cropped%29.jpg/250px-Cardinal_William_Goh_%28cropped%29.jpg"
+  },
+  {
+    "name": "Mario  Grech",
+    "title": "Secretary General of the Synod of Bishops",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cardinal_Mario_Grech_%28cropped%29.jpg/250px-Cardinal_Mario_Grech_%28cropped%29.jpg"
+  },
+  {
+    "name": "Wilton Daniel  Gregory",
+    "title": "Archbishop Emeritus of Washington , District of Columbia",
+    "country": "USA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cardinal_Wilton_Daniel_Gregory_in_2024_%28cropped%29.jpg/250px-Cardinal_Wilton_Daniel_Gregory_in_2024_%28cropped%29.jpg"
+  },
+  {
+    "name": "Claudio  Gugerotti",
+    "title": "Prefect Emeritus of the Dicastery for the Eastern Churches",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Claudio_Gugerotti_1.jpg/250px-Claudio_Gugerotti_1.jpg"
+  },
+  {
+    "name": "James Michael  Harvey",
+    "title": "Archpriest of the Basilica di San Paolo fuori le Mura {Saint Paul Outside-the-Walls Basilica}",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/James_Cardinal_Harvey_%28cropped%29.JPG/250px-James_Cardinal_Harvey_%28cropped%29.JPG"
+  },
+  {
+    "name": "Jean-Claude  Hollerich , S.J.",
+    "title": "Archbishop of Luxembourg",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mgr_JCL_Hollerich_cath_20111016.jpg/250px-Mgr_JCL_Hollerich_cath_20111016.jpg"
+  },
+  {
+    "name": "Antoine  Kambanda",
+    "title": "Archbishop of Kigali",
+    "country": "Rwanda",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/His_Eminence_Antoine_cardinal_Kambanda%2C_GCLJ.jpg/250px-His_Eminence_Antoine_cardinal_Kambanda%2C_GCLJ.jpg"
+  },
+  {
+    "name": "Tarcisio Isao  Kikuchi , S.V.D.",
+    "title": "Archbishop of Tōkyō",
+    "country": "Japan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Archbishop_Tarcisio_Isao_Kikuchi_2024.jpg/250px-Archbishop_Tarcisio_Isao_Kikuchi_2024.jpg"
+  },
+  {
+    "name": "Kurt  Koch",
+    "title": "Prefect Emeritus of the Dicastery for Promoting Christian Unity",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kurt_Koch_par_Claude_Truong-Ngoc_d%C3%A9cembre_2016.jpg/250px-Kurt_Koch_par_Claude_Truong-Ngoc_d%C3%A9cembre_2016.jpg"
+  },
+  {
+    "name": "George Jacob  Koovakad",
+    "title": "Prefect Emeritus of the Dicastery for Interreligious Dialogue",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Card._George_J._Koovakad.jpg/250px-Card._George_J._Koovakad.jpg"
+  },
+  {
+    "name": "Francis Xavier Kriengsak  Kovithavanij",
+    "title": "Archbishop Emeritus of Bangkok",
+    "country": "Thailand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Card.FX.Kriengsak.jpg/250px-Card.FX.Kriengsak.jpg"
+  },
+  {
+    "name": "Konrad  Krajewski",
+    "title": "Prefect of the Dicastery for the Service of Charity",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Konrad_Krajewski_%282020%29.jpg/250px-Konrad_Krajewski_%282020%29.jpg"
+  },
+  {
+    "name": "Jean-Pierre  Kutwa",
+    "title": "Archbishop Emeritus of Abidjan",
+    "country": "Côte d’Ivoire",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jean_Pierre_Kutwa.jpg/250px-Jean_Pierre_Kutwa.jpg"
+  },
+  {
+    "name": "Gérald Cyprien  Lacroix , I.S.P.X.",
+    "title": "Archbishop of Québec",
+    "country": "Canada",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mouvaux_-_Cardinal_G%C3%A9rald_Cyprien_Lacroix_-_1_%28cropped%29.jpg/250px-Mouvaux_-_Cardinal_G%C3%A9rald_Cyprien_Lacroix_-_1_%28cropped%29.jpg"
+  },
+  {
+    "name": "Chibly  Langlois",
+    "title": "Bishop of Les Cayes",
+    "country": "Haïti",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/President_Ma_and_Chibly_Langlois_%2817262956123%29_%28cropped%29.jpg/250px-President_Ma_and_Chibly_Langlois_%2817262956123%29_%28cropped%29.jpg"
+  },
+  {
+    "name": "Frank  Leo",
+    "title": "Archbishop of Toronto , Ontario",
+    "country": "Canada",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Frank_Leo.jpg/250px-Frank_Leo.jpg"
+  },
+  {
+    "name": "Augusto Paolo  Lojudice",
+    "title": "Archbishop of Siena-Colle di Val d’Elsa-Montalcino",
+    "country": "Italy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Augusto_Paolo_Lojudice_con_il_pallio.jpg/250px-Augusto_Paolo_Lojudice_con_il_pallio.jpg"
+  },
+  {
+    "name": "Cristóbal  López Romero , S.D.B.",
+    "title": "Archbishop of Rabat",
+    "country": "Morocco",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Crist%C3%B3bal_L%C3%B3pez_Romero.jpg/250px-Crist%C3%B3bal_L%C3%B3pez_Romero.jpg"
+  },
+  {
+    "name": "Thomas Aquino Manyo  Maeda",
+    "title": "Archbishop of Osaka-Takamatsu",
+    "country": "Japan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Archbishop_Thomas_Aquinas_Manyo_Maeda_in_2015.jpg"
+  },
+  {
+    "name": "Soane Patita Paini  Mafi",
+    "title": "Bishop of Tonga",
+    "country": "Pacific (Oceania)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Soane_Patita_Paini_Mafi.jpg/250px-Soane_Patita_Paini_Mafi.jpg"
+  },
+  {
+    "name": "Rolandas  Makrickas",
+    "title": "Coadjutor Archpriest of the Basilica di Santa Maria Maggiore {Saint Mary Major Basilica}",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rolandas_makrickas-1_%28edit%29.jpg/250px-Rolandas_makrickas-1_%28edit%29.jpg"
+  },
+  {
+    "name": "Dominique François Joseph  Mamberti",
+    "title": "Prefect Emeritus of the Apostolic Signatura",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dominique_Mamberti%2C_14_Dec_2010.jpg/250px-Dominique_Mamberti%2C_14_Dec_2010.jpg"
+  },
+  {
+    "name": "Giorgio  Marengo , I.M.C.",
+    "title": "Prefect of Ulaanbaatar",
+    "country": "Mongolia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marengo_Ordinazione_%28cropped%29.jpg/250px-Marengo_Ordinazione_%28cropped%29.jpg"
+  },
+  {
+    "name": "Adalberto  Martínez Flores",
+    "title": "Archbishop of Asunción",
+    "country": "Paraguay",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Adalberto_Mart%C3%ADnez_Flores.jpg/250px-Adalberto_Mart%C3%ADnez_Flores.jpg"
+  },
+  {
+    "name": "António Augusto  dos Santos Marto",
+    "title": "Bishop Emeritus of Leiria-Fátima",
+    "country": "Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ant%C3%B3nio_Marto_%28Ordination_%C3%A9piscopale_de_Mgr_Tolentino%29.jpg/250px-Ant%C3%B3nio_Marto_%28Ordination_%C3%A9piscopale_de_Mgr_Tolentino%29.jpg"
+  },
+  {
+    "name": "Reinhard  Marx",
+    "title": "Archbishop of München und Freising {Munich}",
+    "country": "Germany",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Marx_05-2009.jpg/250px-Marx_05-2009.jpg"
+  },
+  {
+    "name": "Dominique Joseph  Mathieu , O.F.M. Conv.",
+    "title": "Archbishop of Teheran-Ispahan",
+    "country": "Iran",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dominique_Mathieu_OFMConv.jpg/250px-Dominique_Mathieu_OFMConv.jpg"
+  },
+  {
+    "name": "Robert Walter  McElroy",
+    "title": "Archbishop of Washington , District of Columbia",
+    "country": "USA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BishopMcelroyUGCC_%28cropped%29.jpg/250px-BishopMcelroyUGCC_%28cropped%29.jpg"
+  },
+  {
+    "name": "José Tolentino  Calaça de Mendonça",
+    "title": "Prefect Emeritus of the Dicastery for Culture and Education",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cardeal_De_Mendon%C3%A7a.jpg/250px-Cardeal_De_Mendon%C3%A7a.jpg"
+  },
+  {
+    "name": "Francesco  Montenegro",
+    "title": "Archbishop Emeritus of Agrigento",
+    "country": "Italy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Francesco_Montenegro_concistoro.jpg/250px-Francesco_Montenegro_concistoro.jpg"
+  },
+  {
+    "name": "Stephen Ameyu Martin  Mulla",
+    "title": "Archbishop of Juba",
+    "country": "South Sudan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ameyu_Martin_Mulla_%28edit%29.jpg/250px-Ameyu_Martin_Mulla_%28edit%29.jpg"
+  },
+  {
+    "name": "Gerhard Ludwig  Müller",
+    "title": "Prefect Emeritus of the Congregation for the Doctrine of the Faith",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bischof-GL-M%C3%BCller.JPG/250px-Bischof-GL-M%C3%BCller.JPG"
+  },
+  {
+    "name": "Ladislav  Nemet , S.V.D.",
+    "title": "Archbishop of Beograd (-Smederevo)",
+    "country": "Serbia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Nemet_2009.jpg/210px-Nemet_2009.jpg"
+  },
+  {
+    "name": "Vincent Gerard  Nichols",
+    "title": "Archbishop of Westminster , England",
+    "country": "Great Britain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Archbishop_Vincent_Nichols_%287999797353%29_%28cropped%29.jpg/250px-Archbishop_Vincent_Nichols_%287999797353%29_%28cropped%29.jpg"
+  },
+  {
+    "name": "John  Njue",
+    "title": "Archbishop Emeritus of Nairobi",
+    "country": "Kenya",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cardinal_John_Njue_in_February_2017_in_the_Vatican_City.jpg/250px-Cardinal_John_Njue_in_February_2017_in_the_Vatican_City.jpg"
+  },
+  {
+    "name": "Kazimierz  Nycz",
+    "title": "Archbishop Emeritus of Warszawa {Warsaw}",
+    "country": "Poland",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/K._nycz1_%28cropped%29.jpg/250px-K._nycz1_%28cropped%29.jpg"
+  },
+  {
+    "name": "Dieudonné  Nzapalainga , C.S.Sp.",
+    "title": "Archbishop of Bangui",
+    "country": "Central African Republic",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dieudonn%C3%A9_Nzapala%C3%AFnga_VOA_cropped.jpg/250px-Dieudonn%C3%A9_Nzapala%C3%AFnga_VOA_cropped.jpg"
+  },
+  {
+    "name": "Peter Ebere  Okpaleke",
+    "title": "Bishop of Ekwulobia",
+    "country": "Nigeria",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Peter_Okpaleke.jpg/250px-Peter_Okpaleke.jpg"
+  },
+  {
+    "name": "Juan José  Omella Omella",
+    "title": "Archbishop of Barcelona",
+    "country": "Spain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Card._Omella_%2834385666133%29.jpg/250px-Card._Omella_%2834385666133%29.jpg"
+  },
+  {
+    "name": "Carlos  Osoro Sierra",
+    "title": "Archbishop Emeritus of Madrid",
+    "country": "Spain",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mons._Osoro_%2830877902606%29.jpg/250px-Mons._Osoro_%2830877902606%29.jpg"
+  },
+  {
+    "name": "Philippe Nakellentuba  Ouédraogo",
+    "title": "Archbishop Emeritus of Ouagadougou",
+    "country": "Burkina Faso",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Philippe_Ou%C3%A9draogo.jpg/250px-Philippe_Ou%C3%A9draogo.jpg"
+  },
+  {
+    "name": "Pietro  Parolin",
+    "title": "Secretary Emeritus of the Secretariat of State",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Cardinal_Pietro_Parolin_par_Claude_Truong-Ngoc_juillet_2021.jpg/250px-Cardinal_Pietro_Parolin_par_Claude_Truong-Ngoc_juillet_2021.jpg"
+  },
+  {
+    "name": "Albert Malcolm Ranjith  Patabendige Don",
+    "title": "Archbishop of Colombo",
+    "country": "Sri Lanka",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cardinal_Ranjith.jpg/250px-Cardinal_Ranjith.jpg"
+  },
+  {
+    "name": "Giuseppe  Petrocchi",
+    "title": "Archbishop Emeritus of L’Aquila",
+    "country": "Italy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Foto_Cardinale_Petrocchi_-_cropped.jpg/250px-Foto_Cardinale_Petrocchi_-_cropped.jpg"
+  },
+  {
+    "name": "Christophe Louis Yves Georges  Pierre",
+    "title": "Apostolic Nuncio to United States of America",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ChristophePierre_%28cropped%29.jpg/250px-ChristophePierre_%28cropped%29.jpg"
+  },
+  {
+    "name": "Pierbattista  Pizzaballa , O.F.M.",
+    "title": "Patriarch of Jerusalem {Gerusalemme}",
+    "country": "Palestine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mons._Pierbattista_Pizzaballa.jpg/250px-Mons._Pierbattista_Pizzaballa.jpg"
+  },
+  {
+    "name": "Mario Aurelio  Poli",
+    "title": "Archbishop Emeritus of Buenos Aires",
+    "country": "Argentina",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mario_Aurelio_Cardinal_Poli_%28cropped%29.JPG/250px-Mario_Aurelio_Cardinal_Poli_%28cropped%29.JPG"
+  },
+  {
+    "name": "Anthony  Poola",
+    "title": "Archbishop of Hyderabad",
+    "country": "India",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Poola_Anthony.jpg/250px-Poola_Anthony.jpg"
+  },
+  {
+    "name": "Robert Francis  Prevost , O.S.A.",
+    "title": "Prefect Emeritus of the Dicastery for Bishops",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mons._Robert_Prevost%2C_OSA_%28cropped%29.jpg/250px-Mons._Robert_Prevost%2C_OSA_%28cropped%29.jpg"
+  },
+  {
+    "name": "Vinko  Puljić",
+    "title": "Archbishop Emeritus of Vrhbosna {Sarajevo}",
+    "country": "Bosnia and Herzegovina",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vinko_Puljic_June_2015_%2818760757238%29.jpg/250px-Vinko_Puljic_June_2015_%2818760757238%29.jpg"
+  },
+  {
+    "name": "Timothy Peter Joseph  Radcliffe , O.P.",
+    "title": "Cardinal-Deacon of Santissimi Nomi di Gesù e Maria in Via Lata",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2025.02.22._Timothy_Radcliffe_OP_Warsaw_Poland_Photo_Mariusz_Kubik_01.JPG/250px-2025.02.22._Timothy_Radcliffe_OP_Warsaw_Poland_Photo_Mariusz_Kubik_01.JPG"
+  },
+  {
+    "name": "Alvaro Leonel  Ramazzini Imeri",
+    "title": "Bishop of Huehuetenango",
+    "country": "Guatemala",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bishop_Alvaro_Ramazzini_%286165910686%29_%28cropped%29.jpg/250px-Bishop_Alvaro_Ramazzini_%286165910686%29_%28cropped%29.jpg"
+  },
+  {
+    "name": "Baldassare  Reina",
+    "title": "Vicar General of Roma {Rome}",
+    "country": "Italy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Baldassare_Reina.jpg/250px-Baldassare_Reina.jpg"
+  },
+  {
+    "name": "Roberto  Repole",
+    "title": "Archbishop of Torino {Turin}",
+    "country": "Italy",
+    "image": "https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_repole_r/_jcr_content/parsys/textimage/image.img.jpg/1739979505332.jpg"
+  },
+  {
+    "name": "John  Ribat , M.S.C.",
+    "title": "Archbishop of Port Moresby",
+    "country": "Papua New Guinea",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/John_Ribat_%28cropped%29.jpg/250px-John_Ribat_%28cropped%29.jpg"
+  },
+  {
+    "name": "José Francisco  Robles Ortega",
+    "title": "Archbishop of Guadalajara , Jalisco",
+    "country": "México",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D._Francisco_Robles_Ortega_%28cropped%29.jpg/250px-D._Francisco_Robles_Ortega_%28cropped%29.jpg"
+  },
+  {
+    "name": "Sérgio  da Rocha",
+    "title": "Archbishop of São Salvador da Bahia",
+    "country": "Brazil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/S%C3%A9rgio_da_Rocha.jpg/250px-S%C3%A9rgio_da_Rocha.jpg"
+  },
+  {
+    "name": "Arthur  Roche",
+    "title": "Prefect Emeritus of the Dicastery for Divine Worship and the Discipline of the Sacraments",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bishop_Arthur_Roche_2008.jpg/250px-Bishop_Arthur_Roche_2008.jpg"
+  },
+  {
+    "name": "Ángel Sixto  Rossi , S.J.",
+    "title": "Archbishop of Córdoba",
+    "country": "Argentina",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Angel_Rossi_Arzobispo_1.1.jpg/250px-Angel_Rossi_Arzobispo_1.1.jpg"
+  },
+  {
+    "name": "Luis José  Rueda Aparicio",
+    "title": "Archbishop of Bogotá",
+    "country": "Colombia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Archbishop_Luis_Jose_Rueda_Aparicio_1.jpg/250px-Archbishop_Luis_Jose_Rueda_Aparicio_1.jpg"
+  },
+  {
+    "name": "Protase  Rugambwa",
+    "title": "Archbishop of Tabora",
+    "country": "Tanzania",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rugambwa_Protase.jpg"
+  },
+  {
+    "name": "Stanisław  Ryłko",
+    "title": "Archpriest of the Basilica di Santa Maria Maggiore {Saint Mary Major Basilica}",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/AbpRylko.jpg"
+  },
+  {
+    "name": "Grzegorz Wojciech  Ryś",
+    "title": "Archbishop of Łódź",
+    "country": "Poland",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kard._Grzegorz_Ry%C5%9B_%282024%29.jpg/250px-Kard._Grzegorz_Ry%C5%9B_%282024%29.jpg"
+  },
+  {
+    "name": "Louis Raphaël I  Sako",
+    "title": "Patriarch of Baghdad (Chaldean)",
+    "country": "Iraq",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Louis_Rapha%C3%ABl_I_Sako_November_2015.jpg/250px-Louis_Rapha%C3%ABl_I_Sako_November_2015.jpg"
+  },
+  {
+    "name": "Robert  Sarah",
+    "title": "Prefect Emeritus of the Congregation for Divine Worship and the Discipline of the Sacraments",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cardinal_Robert_Sarah_%28cropped%29.JPG/250px-Cardinal_Robert_Sarah_%28cropped%29.JPG"
+  },
+  {
+    "name": "Odilo Pedro  Scherer",
+    "title": "Archbishop of São Paulo",
+    "country": "Brazil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Odilo_Scherer_em_setembro_de_2018_%28cropped%29.jpg/250px-Odilo_Scherer_em_setembro_de_2018_%28cropped%29.jpg"
+  },
+  {
+    "name": "Marcello  Semeraro",
+    "title": "Prefect Emeritus of the Dicastery for the Causes of Saints",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Semeraro_Udienza_20170504.jpg/250px-Semeraro_Udienza_20170504.jpg"
+  },
+  {
+    "name": "Berhaneyesus Demerew  Souraphiel , C.M.",
+    "title": "Archbishop of Addis Abeba (Ethiopian)",
+    "country": "Ethiopia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Archbishop_Berhaneyesus_Demerew_Souraphiel.jpg/250px-Archbishop_Berhaneyesus_Demerew_Souraphiel.jpg"
+  },
+  {
+    "name": "Jaime  Spengler , O.F.M.",
+    "title": "Archbishop of Porto Alegre , Rio Grande do Sul",
+    "country": "Brazil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dom_Jaime_Spengler_-_Arcebispo.JPG/250px-Dom_Jaime_Spengler_-_Arcebispo.JPG"
+  },
+  {
+    "name": "Leonardo Ulrich  Steiner , O.F.M.",
+    "title": "Archbishop of Manaus , Amazonas",
+    "country": "Brazil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Leonardo_Steiner.jpg/250px-Leonardo_Steiner.jpg"
+  },
+  {
+    "name": "Daniel Fernando  Sturla Berhouet , S.D.B.",
+    "title": "Archbishop of Montevideo",
+    "country": "Uruguay",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Daniel_Sturla_en_Misa_0013.jpg/250px-Daniel_Sturla_en_Misa_0013.jpg"
+  },
+  {
+    "name": "Ignatius  Suharyo Hardjoatmodjo",
+    "title": "Archbishop of Jakarta",
+    "country": "Indonesia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%2BIgnatius_Kardinal_Suharyo_%28cropped%29.jpg/250px-%2BIgnatius_Kardinal_Suharyo_%28cropped%29.jpg"
+  },
+  {
+    "name": "Luis Antonio Gokim  Tagle",
+    "title": "Pro-Prefect of the Dicastery for Evangelization",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luis_Antonio_Tagle_in_2016.png/250px-Luis_Antonio_Tagle_in_2016.png"
+  },
+  {
+    "name": "Orani João  Tempesta , O. Cist.",
+    "title": "Archbishop of São Sebastião do Rio de Janeiro",
+    "country": "Brazil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orani_joao_tempesta_2006.jpg/250px-Orani_joao_tempesta_2006.jpg"
+  },
+  {
+    "name": "Baselios Cleemis (Isaac)  Thottunkal",
+    "title": "Major Archbishop of Trivandrum (Syro-Malankara)",
+    "country": "India",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cardinal_Baselios_Cleemis_Cardinal_Thottunkal.jpg/250px-Cardinal_Baselios_Cleemis_Cardinal_Thottunkal.jpg"
+  },
+  {
+    "name": "Joseph William  Tobin , C.Ss.R.",
+    "title": "Archbishop of Newark , New Jersey",
+    "country": "USA",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cardinal_Tobin_%28cropped%29.jpg/250px-Cardinal_Tobin_%28cropped%29.jpg"
+  },
+  {
+    "name": "Désiré  Tsarahazana",
+    "title": "Archbishop of Toamasina",
+    "country": "Madagascar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mgr._D%C3%A9sir%C3%A9_Tsarahazana.jpg/250px-Mgr._D%C3%A9sir%C3%A9_Tsarahazana.jpg"
+  },
+  {
+    "name": "Emil Paul  Tscherrig",
+    "title": "Apostolic Nuncio",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Emil_Paul_Tscherrig_%28cropped%29.jpg/250px-Emil_Paul_Tscherrig_%28cropped%29.jpg"
+  },
+  {
+    "name": "Peter Kodwo Appiah  Turkson",
+    "title": "Chancellor of the Roman Curia - Other",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Peter_Turkson_%28cropped%29.jpg/250px-Peter_Turkson_%28cropped%29.jpg"
+  },
+  {
+    "name": "Jean-Paul  Vesco , O.P.",
+    "title": "Archbishop of Alger",
+    "country": "Algeria",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jean-Paul_Vesco%2C_OP-022022.jpg/250px-Jean-Paul_Vesco%2C_OP-022022.jpg"
+  },
+  {
+    "name": "Rainer Maria  Woelki",
+    "title": "Archbishop of Köln {Cologne}",
+    "country": "Germany",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rainer_Maria_Kardinal_Woelki%2C_Erzbischof_von_K%C3%B6ln_%282019%29.jpg/250px-Rainer_Maria_Kardinal_Woelki%2C_Erzbischof_von_K%C3%B6ln_%282019%29.jpg"
+  },
+  {
+    "name": "Lazzaro  You Heung-sik",
+    "title": "Prefect Emeritus of the Dicastery for the Clergy",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Card._Heung-sik.png/250px-Card._Heung-sik.png"
+  },
+  {
+    "name": "Mario  Zenari",
+    "title": "Apostolic Nuncio to Syria",
+    "country": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mario_Zenari.jpg/250px-Mario_Zenari.jpg"
+  },
+  {
+    "name": "Matteo Maria  Zuppi",
+    "title": "Archbishop of Bologna",
+    "country": "Italy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Matteo_Zuppi_2019.jpg/250px-Matteo_Zuppi_2019.jpg"
+  }
+]
