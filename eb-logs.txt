@@ -1,4 +1,0 @@
-Retrieving logs...
-Logs were saved to /Users/johnclemente/dev/guessthepope/.elasticbeanstalk/logs/250421_224141
-Logs were saved to /Users/johnclemente/dev/guessthepope/.elasticbeanstalk/logs/250421_224141
-Updated symlink at /Users/johnclemente/dev/guessthepope/.elasticbeanstalk/logs/latest

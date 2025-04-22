@@ -11,8 +11,7 @@ COPY . .
 RUN touch votes.db \
  && chmod 666 votes.db
 
-# Expose the port EB will route to
-EXPOSE 5000
+ENV PORT=8080
+EXPOSE 8080
 
-# Default command: run with Gunicorn
-CMD ["gunicorn", "--workers", "3", "--bind", "0.0.0.0:5000", "app:app"]
+CMD ["gunicorn", "--workers", "3", "--bind", "0.0.0.0:8080", "app:app"]

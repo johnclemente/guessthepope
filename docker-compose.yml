@@ -1,13 +1,10 @@
-version: '3'
-
 services:
   web:
     build: .
+    environment:
+      - PORT=8080
+      - SECRET_KEY=${SECRET_KEY:-change_me_in_production}
+      - FLASK_ENV=production
     ports:
       - "8080:8080"
-    environment:
-      - SECRET_KEY=change_me_in_production
-      - FLASK_ENV=production
-    volumes:
-      - ./votes.db:/app/votes.db
     restart: unless-stopped
