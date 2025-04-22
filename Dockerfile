@@ -5,10 +5,14 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Copy application code
 COPY . .
 
-ENV PORT=8080
-ENV FLASK_ENV=production
-ENV SECRET_KEY=change_me_in_production
+RUN touch votes.db \
+ && chmod 666 votes.db
 
-CMD gunicorn app:app --bind 0.0.0.0:$PORT --workers 2 --threads 2
+# Expose the port EB will route to
+EXPOSE 5000
+
+# Default command: run with Gunicorn
+CMD ["gunicorn", "--workers", "3", "--bind", "0.0.0.0:5000", "app:app"]
