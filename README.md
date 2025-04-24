@@ -72,9 +72,6 @@ docker run -p 8080:8080 -e SECRET_KEY=your_secret_key guessthepope
 - **Frontend**: Bootstrap 5, Chart.js, FontAwesome
 - **Deployment**: Docker, Gunicorn
 
-## License
-
-This project is for educational purposes only.
 
 ## Note
 
